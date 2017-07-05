@@ -1,5 +1,5 @@
 #
-# ~/.config/yaourtrc
+# ~/.config/yaourt/yaourtrc
 #
 
 UP_NOCONFIRM=1		# do not prompt for AUR or build upgrades
