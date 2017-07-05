@@ -1,0 +1,7 @@
+#
+# ~/.config/yaourtrc
+#
+
+UP_NOCONFIRM=1		# do not prompt for AUR or build upgrades
+BUILD_NOCONFIRM=1	# do not prompt while building
+EDITFILES=0		# don’t propose to edit files
