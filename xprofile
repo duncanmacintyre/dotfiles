@@ -1,0 +1,6 @@
+#
+# ~/.xprofile
+#
+
+. ~/.fehbg &
+dropbox &
