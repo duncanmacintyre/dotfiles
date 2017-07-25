@@ -5,4 +5,5 @@
 . ~/.fehbg &
 dropbox &
 xinput set-prop 11 284 1 # set natural scrolling
+xinput set-prop 11 296 0 # enable trackpad while typing
 
