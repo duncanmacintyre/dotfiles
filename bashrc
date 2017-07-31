@@ -17,7 +17,6 @@ alias cp='cp -iv'
 alias ls='ls --color=auto --group-directories-first'
 alias lsa='ls -A --color=auto --group-directories-first'
 alias lsl='ls -Alh --color=auto --group-directories-first'
-alias lsr='ls -Alhd --color=auto --group-directories-first $(find)'
 alias mv='mv -iv'
 
 # pacman and yaourt
